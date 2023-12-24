@@ -6,7 +6,7 @@ I love Coding !!
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rahulanand15497@gmail.com](mailto:rahulanand15497@gmail.com)
 * 🧠  I'm learning React js
-* 🤝  I'm open to collaborating on Interesting Project
+* 🤝  I'm open to collaborating on React based frontend Project
 
 
 <h3 align="left">Connect with me:</h3>
