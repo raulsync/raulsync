@@ -24,7 +24,7 @@ I love Coding ❤ !
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 </br>
 
-#### Coding Stats
+<h2>Coding Stats</h2>
 
 <!--START_SECTION:waka-->
 
@@ -38,8 +38,11 @@ CSS          11 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats
 #### Github Stats
-
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-
 ![](https://github-readme-stats.vercel.app/api?username=rahul00154&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+-->
+
