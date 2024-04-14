@@ -27,6 +27,15 @@ I love Coding ❤ !
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   3 hrs 33 mins   ████████████▓░░░░░░░░░░░░   51.07 %
+SCSS         2 hrs 24 mins   ████████▓░░░░░░░░░░░░░░░░   34.61 %
+JavaScript   21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+HTML         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+CSS          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+```
+
 <!--END_SECTION:waka-->
 
 #### Github Stats
