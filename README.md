@@ -1,15 +1,12 @@
-
-
-
-
-
-
 <h1> Hi, I'm Rahul Anand!</h1>
 <h3 align="left">A passionate Software developer from India</h3>
 
 I love Coding ❤ !
+
 # 💻 Tech Stack
+
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -26,6 +23,14 @@ I love Coding ❤ !
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 </br>
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=rahul00154&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
+#### Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+#### Github Stats
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+
+![](https://github-readme-stats.vercel.app/api?username=rahul00154&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
