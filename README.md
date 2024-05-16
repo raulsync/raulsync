@@ -29,11 +29,14 @@ I love Coding ❤ !
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 May 2024 - To: 14 May 2024
+From: 08 May 2024 - To: 15 May 2024
 
-Total Time: 0 secs
+Total Time: 7 mins
 
-No activity tracked
+JavaScript   4 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.93 %
+Bash         1 min           ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.35 %
+Git Config   1 min           ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.18 %
+SCSS         0 secs          ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.54 %
 ```
 
 <!--END_SECTION:waka-->
