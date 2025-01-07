@@ -28,4 +28,6 @@ Bash         4 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ![](https://github-readme-stats.vercel.app/api?username=rahul00154&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raulsync&show_icons=true&locale=en&layout=compact" alt="raulsync" /></p>
+
 
