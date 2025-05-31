@@ -1,9 +1,10 @@
-<h1> Hi, I'm Rahul Anand!</h1>
-<h3 align="left">A passionate Software developer from India</h3>
 
-I love Coding ❤ !
+### Hello hello hello hello!
 
+-- I am interested in {insert random topics in CS}
 <h2>Coding Stats</h2>
+
+
 
 <!--START_SECTION:waka-->
 
@@ -20,7 +21,12 @@ CSS          7 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-
+<details><summary><b>Click here for cats typing</b></summary><p>
+  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="250" height="250" />
+  <blockquote>Image from Giphy by reactionseditor</blockquote>
+  
+  ![](https://komarev.com/ghpvc/?username=raulsync)
+</p></details>
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats
