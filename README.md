@@ -2,28 +2,8 @@
 ### Hello hello hello hello!
 
 -- I am interested in {insert random topics in CS}
-<h2>Coding Stats</h2>
 
 
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 09 July 2025 - To: 16 July 2025
-
-Total Time: 3 hrs 34 mins
-
-INI     3 hrs 6 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.17 %
-Other   3 hrs 1 min     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.90 %
-```
-
-<!--END_SECTION:waka-->
-<details><summary><b>Click here for cats typing</b></summary><p>
-  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="250" height="250" />
-  <blockquote>Image from Giphy by reactionseditor</blockquote>
-  
-  ![](https://komarev.com/ghpvc/?username=raulsync)
-</p></details>
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats
@@ -34,3 +14,10 @@ Other   3 hrs 1 min     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀�
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raulsync&show_icons=true&locale=en&layout=compact" alt="raulsync" /></p>
 
 
+
+<details><summary><b>Click here for cats typing</b></summary><p>
+  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="250" height="250" />
+  <blockquote>Image from Giphy by reactionseditor</blockquote>
+  
+  ![](https://komarev.com/ghpvc/?username=raulsync)
+</p></details>
